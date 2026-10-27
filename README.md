@@ -38,5 +38,5 @@ I specialize in data analysis, dashboard development, and transforming raw data 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/ramadan-al-bassiouni-9a899b1a8/(https://linkedin.com)
-* **Email:** [Your Email Address]
+* **LinkedIn:** https://www.linkedin.com/in/ramadan-al-bassiouni-9a899b1a8/
+* **Email:** rmr_20100@yahoo.com
