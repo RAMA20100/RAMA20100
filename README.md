@@ -32,11 +32,11 @@ I specialize in data analysis, dashboard development, and transforming raw data 
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAMA20100&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com)
+* **LinkedIn:** https://www.linkedin.com/in/ramadan-al-bassiouni-9a899b1a8/(https://linkedin.com)
 * **Email:** [Your Email Address]
